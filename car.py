@@ -3,8 +3,8 @@ from serviceable import serviceable
 
 class Car(ABC):
     def __init__(self, engine, battery):
-        car_engine = engine
-        car_battery = battery
+        self.car_engine = engine
+        self.car_battery = battery
 
     @abstractmethod
     def needs_service(self):
