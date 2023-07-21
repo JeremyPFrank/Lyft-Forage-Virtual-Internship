@@ -1,3 +1,5 @@
-import abc as ABC, abstract class
+import abc as ABC
 
-def _init_ (
+class Engine(ABC):
+  def needs_service(self):
+    pass
