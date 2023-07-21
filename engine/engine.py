@@ -1,4 +1,4 @@
-import abc as ABC
+from abc import ABC
 
 class Engine(ABC):
   def needs_service(self):
