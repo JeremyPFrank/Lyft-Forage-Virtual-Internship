@@ -1,2 +1,2 @@
-# Starter Repo
-This repo has everything you need to get started on the program, good luck!
+# Lyft Virtual Internship (Forage)
+This repo was my workspace when I completed Lyft's virtual backend software engineering internship hosted by Forage. I was given a starting codebase and was expected to refactor and clean it, making it easy to read, understand, and add to. I then implemented new functionalities to the codebase to fulfill hypothetical business goals. It was an incredible experience that gave me a glimpse into the daily work of a software engineer at Lyft, helped me develop valuable skills, and gave me the opportunity to improve my Python Object-Oriented Programming.
